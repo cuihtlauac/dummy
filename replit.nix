@@ -5,5 +5,6 @@
     pkgs.ocamlPackages.ocaml-lsp
     pkgs.ocamlPackages.findlib
     pkgs.ocamlPackages.utop
+    pkgs.ocamlPackages.alcotest
   ];
 }
